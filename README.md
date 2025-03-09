@@ -1,3 +1,5 @@
+Mostly images available in **JUNE 2016 - DECEMBER 2020**, so select those days to  *view and save*.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
